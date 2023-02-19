@@ -1,0 +1,47 @@
+Verse 1:
+I'm coding away, making changes to my code
+Working hard to make it run like it should
+But I know I can't keep it just on my machine
+So I commit it to the remote repo on GitHub
+
+Chorus:
+Git push, Git push, that's how we get things done
+From local to remote, it's all about that fun
+Git push, Git push, with just a simple command
+My changes are safe and sound in the cloud land
+
+Verse 2:
+I check my changes, and everything looks fine
+My code is clean, and the tests all pass on time
+I add a commit message, so I know what I've done
+Then I push it up to GitHub, just like a run
+
+Chorus:
+Git push, Git push, that's how we get things done
+From local to remote, it's all about that fun
+Git push, Git push, with just a simple command
+My changes are safe and sound in the cloud land
+
+Verse 3:
+On GitHub, I can see my changes clear as day
+All my code is there, in the best possible way
+I can check the logs, to see what I've done before
+And I can share my work with people galore
+
+Chorus:
+Git push, Git push, that's how we get things done
+From local to remote, it's all about that fun
+Git push, Git push, with just a simple command
+My changes are safe and sound in the cloud land
+
+Verse 4:
+So when you're working on your code, remember this song
+And don't forget to push your changes where they belong
+With Git push, Git push, it's easy as can be
+To share your work with the world, for all to see
+
+Chorus:
+Git push, Git push, that's how we get things done
+From local to remote, it's all about that fun
+Git push, Git push, with just a simple command
+My changes are safe and sound in the cloud land.
