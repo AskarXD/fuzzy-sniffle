@@ -46,4 +46,4 @@ From local to remote, it's all about that fun
 Git push, Git push, with just a simple command
 My changes are safe and sound in the cloud land.
 
-Some extra words to an already impeccable song
+Some extra words are added to an already impeccable song
